@@ -1,107 +1,89 @@
 <h1 align=center>个人简历</h1>
 
-<img src="https://avatars0.githubusercontent.com/u/19526194?s=460&v=4" width='80px' hight='80px' align=right></img>
-
-<br>
-
-<p><a href="https://github.com/ckjbug/Resume/blob/master/READMD_English.md">English</a></p>
-
 
 ## 基本信息
-- 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：奎君/男/1996
-- 工作经验：5年
+<img src="mmexport1767945535853.jpg" width='80px' hight='80px' align=right></img>
+- 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：张翔/男/1993
+- 工作经验：6年
 - 求职意向：软件开发工程师
-- 毕业院校：南华大学（USC）
-- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：软件工程
-- 技术博客：[Coding Daily](http://ckjbug.site)、[Cnblog](https://ckjbug.cnblogs.com)
-- &nbsp;GitHub&nbsp;&nbsp;：[https://github.com/ckjbug](https://github.com/ckjbug)
-- 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：17610791667
-- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：ckjbug@gmail.com、ckjbug@qq.com
-- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：Well-Chat
+- 教育背景：
+    - 2017-2020：华东师范大学 · 硕士研究生 · 软件工程
+    - 2012-2016：江苏科技大学 · 本科 · 软件工程
+- 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：18621817752
+- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：18621817752@163.com
+- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：gongsunmiao
+
+
 
 ## 专业技能
-- 掌握C#、TypeScript开发语言，熟练使用Visual Studio开发工具，了解C、C++、Python、Dart、Java等编程语言
-- 熟练操作SqlServer、Redis数据库，掌握SQL语句/存储过程/视图等的运用
-- 熟练运用.NET Core/MVC/Web API/EF Core/Dapper等进行Web开发
-- 熟悉HTML，CSS，JavaScript，Cookie，Session等前端基础知识
-- 熟练使用Git代码管理工具进行团队合作开发和版本控制，了解DevOps（Azure/Jenkins）、敏捷开发
-- 熟悉WinForm、WPF、Angular、Flutter、Bootscript等开发框架和技术
-- 掌握MVC、MVVM等开发模式、OOP设计思想，熟悉微服务（Docker） 、 敏捷开发、集群等技术
-- 熟悉Windows、Linux（Kali、Fedora）、Mac平台的开发和部署
-- 熟练使用多媒体和建模软件如PR、PS、AE、Ai、C4D、Blender、Unity3D、Axure等
 
-## 语言技能
-- 英语CET4
-- 日语
+- 精通 Java 后端开发，熟练使用 Spring Boot 构建微服务，具备多模块大型项目的架构设计与拆分经验
+- 熟练掌握 Java 并发编程，能独立设计异步任务编排、线程池管理、分布式锁等高并发方案
+- 熟悉常用设计模式（工厂、模板方法、策略、观察者等）并有丰富的生产级实践
+- 具备 Spring StateMachine 状态机驱动复杂业务工作流的实战经验
+- 熟练使用 Elasticsearch 及自研数据迁移方案，具备集群运维和健康监控能力
+- 熟悉 Java 安全体系（证书管理、TLS 双向认证、加密通信），有安全漏洞修复经验
+- 掌握 Go 语言，能独立完成从零到一的后端项目开发，熟悉 Go 并发模型和接口驱动设计
+- 具备 Kubernetes Operator 开发和 Helm Chart 架构设计经验，了解云原生生态
+- 熟练使用 JUnit、Mockito 等测试框架，重视测试覆盖率，有完整的测试体系建设经验
+- 了解 Prometheus、Grafana、Jaeger 等可观测性工具，有微服务监控和链路追踪实践
+
+---
 
 ## 工作经历
-### 重庆某事业单位 |  数据库管理工程师（在编） |  2020.8 - 至今
-- 负责全院数据库管理和网络信息安全建设。
 
-### 微软中国（北京） |  软件开发工程师、PM（实习） |  2019.6 - 2019.8
-- 负责Center One（微软新视界）中Light House展示系统后台控制程序的重构和设计，实现整个展厅的自动化和产品化。
-- 参与Center One整个Tour的需求设计，完善Lighthouse控制软件中前端页面涉及到的各个功能、对应的后台管理功能及控制端软件界面交互细节。
+### Dell Technologies · 高级软件工程师
 
-### 中国航天科工集团二院（706所） |  初级开发工程师（实习） |  2018.5 - 2018.12
-- 参与分布式航天用例测试记录软件的设计与开发（WinForm/WPF 产品） ，采用 Master-Slave 主从模式，用于测 试人员对动态测试过程的完整记录，复现，可以实现多台计算机之间同步和协同记录（节点端和服务端）。 
-- 负责对国内外各大云服务提供商的资料收集和整理，测试云服务器功能
+**2020.01 – 2026.03**
 
-### 中国核工业建设二三公司（设计所） |  初级开发工程师（实习） |  2017.10 - 2018.5
-- 接手PEPS项目（pcf数据格式转换项目），Excel数据格式转换相关模块的开发（NPOI）
-- 参与达索Delmia软件的二次开发（BIM行业仿真软件），基于组件的体系结构（PPR，有效地解决了维护、管理、扩展的困难，并大量使用了最新的计算机技术和标准以及软件工程技术仿真核辐射源，计算最优路径、模拟管道切割），采用内嵌 VBA编译工具开发
+Dell PPDM（PowerProtect Data Manager）是面向全球企业客户的数据保护与管理平台，部署于数千家企业。我所在的团队负责整个平台的生命周期管理，保障平台的部署、运行与升级。
+
+**工作职责**：
+- 负责升级平台核心模块的设计、开发、测试与维护，是团队中该模块的主要开发者
+- 深度参与升级系统从传统 VM 架构向 Kubernetes 云原生架构的迁移与改造
+- 独立完成 Go 语言升级框架的从零搭建，支撑多种部署形态
+- 持续输出技术设计文档、调研报告与测试方案，注重工程规范
+
+---
 
 ## 项目经历
-### [Onrecord用例记录器](https://github.com/) 2018.06 - 2018.12
-- 技术栈：ASP.NET Core 2.2 + MySQL + WebApi + EF Core + Swagger + layuiAdmin
-- 前后端分离，主要功能点有注册、登录、修改密码、找回密码、发邮件、多语言切换、不同权限用户不同后台界面，DDNS服务隧道的管理，管理员审核开通DDNS隧道，用户CRUD等等
-- 独立开发部署在Linux服务器上，使用Nginx做反向代理，Supervisor配置守护进程开机自启
 
-### [认证文档发布系统](https://github.com/Blue-Oranges/Angular_Tutorial) 2019.01 - 2019.02
-- 技术栈：Angular + ASP.NET Core2.x + Web API + Identity Server 4 + Bootstrap + ECharts
-- 基于Identity Server 4授权的权限体系，使用ECharts开发大屏数据图表界面，可以自由切换多种风格主题，完整的用户后台体系
-- 创建Web API，接入后台数据，绑定到ECharts
+### 项目一：企业级微服务升级平台（Java，核心项目）
 
-### 开源项目：2016.06 - 至今
+**项目描述**：基于 Spring Boot 的大型微服务升级编排系统，负责协调 50+ 微服务的版本升级流程，确保全球客户环境下零停机、可回滚的安全升级。项目采用多模块 Maven 架构，支持 K8s 与 VM 双部署形态。
 
-<table>
-    <tr>
-        <th width=267>项目名称</th>
-        <th>项目描述</th>
-        <th width=153>项目时间</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/ckjbug/Hacking">Hacking</a></td>
-        <td>
-整理和开发网络安全，黑客技术文档和工具，代码。第一个1k+Star的开源项目，现在任在维护。
-        </td>
-        <td>2017.07 - 至今</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Blue-Oranges/CnblogApp">Cnblog IOS</a></td>
-        <td>
-1. 基于Flutter台开发iOS、Android原生博客园App
-2. 熟悉iOS/Android App开发流程，证书申请，打包上线
-3. 负责App博客模块，调用开放的API，接入数据、分享，消息推送等
-        </td>
-        <td>2019.01 - 2019.04</td>
-    </tr>
-    <tr>
-        <td><a href="http://autonews.com">Ooooog</a></td>
-        <td>
-            1. 技术栈：Asp.Net WebForm + SqlServer + jQuery + Ajax + Dapper<br>
-            2. 网站升级改版，独立完成其PC端和移动端站点，点击量/访问量统计开发<br>
-            3. 负责此项目的稳定运行与所有新功能需求点，上线起稳定运行至今<br>
-        </td>
-        <td>2017.09 - 2017.09</td>
-    </tr>
-   
-</table>
+**我的职责与贡献**：
+- **架构设计**：参与设计并演进了清晰的多层模块化架构，通过接口抽象实现同一套业务逻辑在不同部署环境下的灵活切换，参与了多次重大模块拆分与重组
+- **并发与状态管理**：设计异步编排方案实现多组件并行升级；采用分布式锁保障升级过程的并发安全；使用 Spring StateMachine 驱动升级全生命周期，实现了比数据库事务更复杂的跨进程状态恢复机制
+- **REST API 体系**：设计完整的升级状态与进度查询接口，将升级流程从脚本驱动升级为 API 驱动，实现请求校验、版本冲突处理、全局异常拦截等企业级 API 规范
+- **数据层建设**：基于 Elasticsearch 构建数据访问层与集群健康监控体系；自主研发版本化 Schema 迁移框架，支持跨版本平滑数据结构升级
+- **安全加固**：搭建完整的证书管理与 TLS 双向认证体系，修复路径穿越等安全漏洞
+- **测试体系**：构建高覆盖率的单元测试和集成测试体系，推动全模块测试框架升级，编写多篇系统性测试方案
+
+### 项目二：Kubernetes Operator 与云原生架构迁移（Java）
+
+**项目描述**：将产品从传统 VM 部署迁移至 Kubernetes 环境，需要设计全新的声明式安装、升级与卸载编排机制。
+
+**我的职责与贡献**：
+- 使用 Java 开发自定义 Kubernetes Operator，实现产品生命周期的声明式管理（安装 → 升级 → 卸载）
+- 负责将 50+ 微服务从单一部署包拆分为多分组架构，设计共享模板库和动态版本管理机制，解决了跨分组的配置归属与权限划分难题
+- 完成升级服务的容器化改造，提供标准化 REST API 接口
+
+### 项目三：Go 升级编排引擎
+
+**项目描述**：面向非 K8s 部署形态（Bare Metal 等），使用 Go 语言从零构建独立的升级编排框架。
+
+**我的职责与贡献**：
+- 深度参与项目的架构设计与开发工作，实现了三层编排抽象模型，支持串行与并行任务灵活组合
+- 采用 Go 接口驱动和多种设计模式实现高可扩展架构，测试代码量超过生产代码
+- 框架同时支撑三种不同部署形态，验证了架构的通用性和可扩展性
+
+---
 
 ## 自我评价
-- 工作积极认真，细心负责，有较强的分析和动手能力
-- 勤奋好学，踏实肯干，有很强的社会责任感
-- 坚毅不拔，吃苦耐劳，喜欢和善于迎接新挑战
-- 适应能力强，心胸豁达，有很强的团队协作精神和与人沟通能力
-- 极客，技术宅，热爱开源，爱设计，爱旅游
-- 长期活跃在各大IT技术论坛和开源社区
-- 大学所有的专业和非专业知识都总结在印象笔记（200多篇），方便以后快速拾起
+
+- **扎实的技术功底**：6 年深耕 Java 后端开发，对并发编程、状态机、设计模式、模块化架构有深入理解和丰富实践，能独立承担复杂模块的设计与开发
+- **面向失败的设计理念**：长期从事企业级零停机升级系统开发，形成了预检查、超时兜底、幂等重试、状态可恢复的系统性防御思维，可迁移到支付、交易、调度等高可靠性场景
+- **双语言能力**：Java 为主力语言（6 年），Go 为辅助语言（2 年），能根据场景选择合适的技术栈，快速上手新项目
+- **工程质量意识强**：坚持测试先行，重视测试覆盖率与测试方案的系统性；有完善的文档习惯，累计输出数十篇技术文档
+- **自驱成长**：6 年间从初级开发成长为能独立承担核心模块的高级工程师，具备较强的自学能力和问题分析能力
